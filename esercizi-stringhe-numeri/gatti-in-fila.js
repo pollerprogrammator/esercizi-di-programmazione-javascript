@@ -17,3 +17,18 @@
 
   http://www.imparareaprogrammare.it
 */
+var cats = 44;
+var inLine = 6;
+
+var numLines = Mathceil(cats/inLine);
+var missing = (numLines*inline)-cats;
+console.log('(cats) gatti in fila per (inLine) si unirono (numLines). Nell'ultima fila rimasero (missing) posti gatto disponibili')
+
+
+
+
+
+
+
+
+
